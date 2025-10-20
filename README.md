@@ -167,6 +167,9 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 3. To add a resource, open a PR in the appropriate folder’s `README.md`.  
 4. Follow existing formatting and include the identifier tag (e.g., **[Paper]**, **[Blog]**, **[GitHub]**, **[Tool]**, **[Video]**, **[Model]**, **[Dataset]**).
 
+> 📘 **See [CONTRIBUTING.md](CONTRIBUTING.md)** for full guidelines, style tips, and how to submit your PR.  
+
+
 ---
 
 ## License
