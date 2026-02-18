@@ -84,6 +84,8 @@ Welcome to the **Offensive Security** section of Awesome GenAI CyberHub! This sp
 
 * [🛠️ RamiGPT (M507/RamiGPT on GitHub)](https://github.com/M507/RamiGPT) **[Tool/GitHub]** - An AI-driven offensive security tool.
 
+* 🎯 [PromptTrace](https://prompttrace.airedlab.com/) **[Web Platform]** - Interactive AI security training platform with 7 attack labs, a 15-level Gauntlet, and real-time Context Trace for practicing prompt injection, defense bypass, and tool abuse against real LLMs.
+
 
 ---
 
